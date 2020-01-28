@@ -1,6 +1,6 @@
 import React from 'react';
 import Lottie from 'react-lottie';
-import animationData from './assests/cat.json'
+import animationData from './assests/coming-soon.json'
 import './App.css';
 
 const defaultOptions = {
@@ -21,7 +21,6 @@ const App: React.FC = () => {
         height={565}
         width={668}
       />
-      <h1>Coming Soon</h1>
       </header>
     </div>
   );
