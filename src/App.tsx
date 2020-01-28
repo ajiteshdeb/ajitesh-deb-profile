@@ -18,8 +18,8 @@ const App: React.FC = () => {
       <header className="App-header">
       <Lottie 
         options={defaultOptions}
-        height={400}
-        width={400}
+        height={565}
+        width={668}
       />
       <h1>Coming Soon</h1>
       </header>
